@@ -1,0 +1,18 @@
+total 76
+drwxr-x--- 10 acer acer  4096 Nov 21 20:28 .
+drwxr-xr-x  3 root root  4096 Oct  7 15:13 ..
+-rw-------  1 acer acer 13742 Nov 24 13:32 .bash_history
+-rw-r--r--  1 acer acer   220 Oct  7 15:13 .bash_logout
+-rw-r--r--  1 acer acer  3771 Oct  7 15:13 .bashrc
+drwxr-x---  4 acer acer  4096 Oct  7 15:16 .cache
+drwxr-x---  4 acer acer  4096 Oct 21 07:25 .config
+-rw-r--r--  1 acer acer    92 Nov  3 04:20 .gitconfig
+-rw-------  1 acer acer    20 Nov 13 12:54 .lesshst
+drwx------  3 acer acer  4096 Oct 23 09:09 .local
+-rw-rw-r--  1 acer acer     0 Nov 24 08:25 .motd_shown
+-rw-r--r--  1 acer acer   807 Oct  7 15:13 .profile
+drwxr-xr-x  3 acer acer  4096 Nov 17 21:44 DeveloperPortfoilo
+drwxr-xr-x  2 acer acer  4096 Oct 25 10:19 Downloads
+drwxr-xr-x  2 acer acer  4096 Oct 25 09:53 cse103_backups
+drwxr-xr-x  4 acer acer  4096 Nov  4 06:15 cse103_lab
+drwxr-xr-x  3 acer acer  4096 Nov 24 08:47 developer-portfolio

@@ -1,0 +1,10 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1  24576 15432 ?        Ss   16:07   0:01 /sbin/init
+root           2  0.0  0.0   3820  2528 hvc0     Sl+  16:07   0:00 /init
+root           3  0.0  0.0   3680  2220 hvc0     S+   16:07   0:00 init-watcher
+root           7  0.0  0.0   3820  2292 hvc0     Sl+  16:07   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          47  0.0  0.3  58844 25924 ?        S<s  16:07   0:00 /usr/lib/systemd/systemd-journald
+systemd+      79  0.0  0.1  22432 14432 ?        Ss   16:07   0:00 /usr/lib/systemd/systemd-resolved
+root          91  0.0  0.1  35012 12288 ?        Ss   16:07   0:04 /usr/lib/systemd/systemd-udevd
+root         124  0.0  0.0   2888  2008 ?        Ss   16:07   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+root         131  0.0  0.0   4472  3116 ?        Ss   16:07   0:00 /usr/sbin/cron -f -P
