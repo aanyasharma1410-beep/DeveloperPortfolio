@@ -44,6 +44,9 @@ This repository brings together all four lab modules: Linux system profiling, Ba
 
 ### LinkedIn Profile
 ![LinkedIn Profile](Screenshots/linkedin_profile.png/profile.png)
+![LinkedIn Profile](Screenshots/linkedin_profile.png/contact-info.png)
+![LinkedIn Profile](Screenshots/linkedin_profile.png/projects.png)
+![LinkedIn Profile](Screenshots/linkedin_profile.png/skills.png)
 
 
 
