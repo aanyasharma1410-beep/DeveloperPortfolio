@@ -39,7 +39,11 @@ This repository brings together all four lab modules: Linux system profiling, Ba
 ## Verification Screenshots
 
 ### GitHub Profile
-![GitHub Profile](Screenshots/github_profile.png)
+![GitHub Profile](Screenshots/git_hub.png/github-profile.png)
+![Pinned Repositories](Screenshots/git_hub.png/pinned-files.png)
 
 ### LinkedIn Profile
-![LinkedIn Profile](Screenshots/linkedin_profile.png)
+![LinkedIn Profile](Screenshots/linkedin_profile.png/profile.png)
+
+
+
